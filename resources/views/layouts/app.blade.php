@@ -33,7 +33,7 @@
                  <!-- imagen de logotipo -->
                 <a class="navbar-brand" href="{{ url('/') }}"  >
                    
-                        <img src="img/home.jpg" alt="ir index" style= "width:3cm ; border-radius: 50%; " > 
+                        <img src="img/home.jpg" alt="link index" style= "width:3cm ; border-radius: 50%; " > 
                   
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
